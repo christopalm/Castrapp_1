@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Castrapp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings1">Referencias</string>
+    <string name="action_settings2">Acerca de</string>
+    <string name="facebook_app_id">135605863619857</string>
+    <string name="title_activity_acitivity_tips">Beneficios y consejos</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_grupos_layout">Grupos y contacto</string>
+    <string name="action_settings">Settings</string>
+</resources>
